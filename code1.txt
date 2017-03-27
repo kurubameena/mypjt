@@ -1,5 +1,18 @@
-d
-e
-f
-g
-h
+                                  Ant build tool
+C:\Program Files\Java\jdk1.8.0_121\bin
+set ant_home=d:\apache-ant-1.9.9
+echo %ant_home%
+set path=
+F:\Programs\ant\apache-ant-1.9.9\bin (F:\Programs\ant\apache-ant-1.9.9\bin)
+where java- for location
+java --version- for java version
+ 
+ Apache Ant is a software tool for automating software build processes,
+ which originated from the Apache Tomcat project in early 2000.
+ It was a replacement for the Unix make build tool,
+ and was created due to a number of problems with the unix make.
+ 
+ The build.xml file, if it is an ant script, is not used to import the project into an IDE like Eclipse or Netbeans.
+ A build script is used to build the project (or produce some desired output) 
+ rather than an mechanism for importing the project into an IDE.
+ 
