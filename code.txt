@@ -116,5 +116,7 @@
       looking at how Visual Basic, Visual C++, C#, and ASP+ are 
       integrated into a comprehensive development 
       environment.</description>
+      This new project  for every new thing to do 
    </book>
 </catalog>
+
