@@ -15,4 +15,4 @@ java --version- for java version
  The build.xml file, if it is an ant script, is not used to import the project into an IDE like Eclipse or Netbeans.
  A build script is used to build the project (or produce some desired output) 
  rather than an mechanism for importing the project into an IDE.
- 
+some of the decritpions will be made by the meena:wq:  
